@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Fire</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -17,6 +17,8 @@
                 display: table;
                 font-weight: 100;
                 font-family: 'Lato';
+                color: orange;
+                background-color: black;
             }
 
             .container {
@@ -38,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Fire</div>
             </div>
         </div>
     </body>
